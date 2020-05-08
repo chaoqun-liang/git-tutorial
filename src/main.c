@@ -247,4 +247,4 @@ int main(int argc, char **argv) {
   exit(status);
   return 0;
 i}*/
->>>>>>> conflicts
+
